@@ -1,0 +1,22 @@
+C:\Users\GTX\Desktop\pocketbook_copieagenda\pocketbook_copieagenda\obj\Debug\pocketbook_copieagenda.Form1.resources
+C:\Users\GTX\Desktop\pocketbook_copieagenda\pocketbook_copieagenda\obj\Debug\pocketbook_copieagenda.Properties.Resources.resources
+C:\Users\GTX\Desktop\pocketbook_copieagenda\pocketbook_copieagenda\obj\Debug\pocketbook_copieagenda.csproj.GenerateResource.Cache
+C:\Users\GTX\Desktop\pocketbook_copieagenda\pocketbook_copieagenda\obj\Debug\pocketbook_copieagenda.csproj.CoreCompileInputs.cache
+C:\Users\GTX\Desktop\pocketbook_copieagenda\pocketbook_copieagenda\bin\Debug\pocketbook_copieagenda.exe.config
+C:\Users\GTX\Desktop\pocketbook_copieagenda\pocketbook_copieagenda\bin\Debug\pocketbook_copieagenda.exe
+C:\Users\GTX\Desktop\pocketbook_copieagenda\pocketbook_copieagenda\bin\Debug\pocketbook_copieagenda.pdb
+C:\Users\GTX\Desktop\pocketbook_copieagenda\pocketbook_copieagenda\obj\Debug\pocketbook_copieagenda.exe
+C:\Users\GTX\Desktop\pocketbook_copieagenda\pocketbook_copieagenda\obj\Debug\pocketbook_copieagenda.pdb
+C:\Users\GTX\Desktop\pocketbook_copieagenda\pocketbook_copieagenda\bin\Debug\contacte.csv
+C:\Users\GtX\Desktop\pocketbook_copieagenda\pocketbook_copieagenda\obj\Debug\pocketbook_copieagenda.csprojAssemblyReference.cache
+E:\stick\windows forms\pocketbook_copieagenda\pocketbook_copieagenda\bin\Debug\contacte.csv
+E:\stick\windows forms\pocketbook_copieagenda\pocketbook_copieagenda\bin\Debug\pocketbook_copieagenda.exe.config
+E:\stick\windows forms\pocketbook_copieagenda\pocketbook_copieagenda\bin\Debug\pocketbook_copieagenda.exe
+E:\stick\windows forms\pocketbook_copieagenda\pocketbook_copieagenda\bin\Debug\pocketbook_copieagenda.pdb
+E:\stick\windows forms\pocketbook_copieagenda\pocketbook_copieagenda\obj\Debug\pocketbook_copieagenda.csprojAssemblyReference.cache
+E:\stick\windows forms\pocketbook_copieagenda\pocketbook_copieagenda\obj\Debug\pocketbook_copieagenda.Form1.resources
+E:\stick\windows forms\pocketbook_copieagenda\pocketbook_copieagenda\obj\Debug\pocketbook_copieagenda.Properties.Resources.resources
+E:\stick\windows forms\pocketbook_copieagenda\pocketbook_copieagenda\obj\Debug\pocketbook_copieagenda.csproj.GenerateResource.cache
+E:\stick\windows forms\pocketbook_copieagenda\pocketbook_copieagenda\obj\Debug\pocketbook_copieagenda.csproj.CoreCompileInputs.cache
+E:\stick\windows forms\pocketbook_copieagenda\pocketbook_copieagenda\obj\Debug\pocketbook_copieagenda.exe
+E:\stick\windows forms\pocketbook_copieagenda\pocketbook_copieagenda\obj\Debug\pocketbook_copieagenda.pdb
